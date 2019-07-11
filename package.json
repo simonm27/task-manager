@@ -6,9 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonm27/task-manager.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simonm27/task-manager/issues"
+  },
+  "homepage": "https://github.com/simonm27/task-manager#readme",
   "dependencies": {
     "mongodb": "^3.2.7"
   }
